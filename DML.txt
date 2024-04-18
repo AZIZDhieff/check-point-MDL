@@ -1,0 +1,16 @@
+INSERT INTO customer VALUES 
+
+('C01','ALI',71321009) 
+INSERT INTO customer VALUES 
+('C02' , 'ASMA' , 773345823 )  
+
+INSET INTO product VALUES 
+('P01' , 'samsung galaxy S20', 'smart phone ' , 3299 ) 
+INSERT INTO product VALUES 
+ ('P02' , ' assus notboook' , 'PC' , 4599 ) 
+
+INSERT INTO ORDERS VALUES 
+('C01' ,'PO2' , 'NULL' , 2 ,9198 ) 
+INSERT INTRO ORDERS VALUES 
+ ('C02' , 'P01' , 28/05/2020 ,1 ,3299)  
+
